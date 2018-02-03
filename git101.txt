@@ -1,5 +1,6 @@
 Updated for new branch
-
+updated new lines for branch master
+more line branch master
 git status
 git pull
 git clone
